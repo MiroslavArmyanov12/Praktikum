@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Star Wars Galaxy of Heroes</title>
+    <link href="https://fonts.googleapis.com/css?family=Cherry+Swash|Raleway" rel="stylesheet">
+    <link href="heroes-style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <header>
+      <h1>Star Wars Galaxy of Heroes</h1>
+    </header>
+    <div>
+      <aside>
+        <form>
+          <div>
+			<label id="resultsPower">Total power: 0</label>
+			<label id="resultsCount">Displayed heroes: 0</label>
+			<br>
+            <label for="category">Choose a fraction:</label>
+            <select id="category">
+              <option selected>All</option>
+              <option>Droid</option>
+              <option>Empire</option>
+              <option>First Order</option>
+              <option>Jedi</option>
+              <option>Phoenix</option>		
+              <option>Rebel</option>	
+			  <option>Resistance</option>
+			  <option>Rogue One</option>			  
+              <option>Sith</option>					  
+            </select>
+          </div>
+          <div>
+            <label for="searchTerm">Search by hero's name:</label>
+            <input type="text" id="searchTerm" placeholder="e.g. Luke Skywalker">
+			
+			<input type="checkbox" id="choice1" value="Name" checked><label for="choice1">Show hero's name</label><br>
+			<input type="checkbox" id="choice2" value="Image" checked><label for="choice2">Show hero's image</label><br>
+			<input type="checkbox" id="choice3" value="Power" checked><label for="choice3">Show hero's power</label><br>
+          </div>
+          <div>
+            <button id="Filter">Show results</button>
+            <button id="Clear">Clear results</button>	
+          </div>
+        </form>
+			<br>
+            <button id="smallView" onclick="zoomOut()">Smaller View</button>
+            <button id="normalView" onclick="zoomIn()">Normal View</button>
+            <button id="largeView" onclick="zoomMore()">Larger View</button>
+		</aside>
+      <main>
+
+      </main>
+    </div>
+    <footer>
+
+    </footer>
+    <script src="heroes-script.js"></script>
+    <script src="resize.js"></script>
+  </body>
+</html>

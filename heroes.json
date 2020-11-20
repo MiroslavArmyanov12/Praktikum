@@ -1,0 +1,353 @@
+[
+  {
+    "name" : "darth vader",
+    "power" : 2089,
+	"level" : 80,
+	"stars" : 2,
+	"shards" : "9/25",
+    "image" : "DarthVader.jpg",
+    "fraction" : "sith"
+  },
+  {
+    "name" : "emperor palpatine",
+    "power" : 2042,
+	"level" : 62,
+	"stars" : 4,
+	"shards" : "28/30",
+    "image" : "EmperorPalpatine.jpg",
+    "fraction" : "sith"
+  },
+  {
+    "name" : "darth sidious",
+    "power" : 1446,
+	"level" : 85,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "DarthSidious.jpg",
+    "fraction" : "sith"
+  },
+  {
+    "name" : "darth nihilus",
+    "power" : 1996,
+	"level" : 85,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "DarthNihilus.jpg",
+    "fraction" : "sith"
+  },
+  {
+    "name" : "darth maul",
+    "power" : 1965,
+	"level" : 85,
+	"stars" : 4,
+	"shards" : "56/65",
+    "image" : "DarthMaul.jpg",
+    "fraction" : "sith"
+  },
+  {
+    "name" : "luke skywalker",
+    "power" : 1456,
+	"level" : 84,
+	"stars" : 5,
+	"shards" : "7/85",
+    "image" : "LukeSkywalker.jpg",
+    "fraction" : "rebel"
+  },
+  {
+    "name" : "commander luke skywalker",
+    "power" : 2253,
+	"level" : 85,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "CommanderLukeSkywalker.jpg",
+    "fraction" : "rebel"
+  },
+  {
+    "name" : "princess leia",
+    "power" : 1876,
+	"level" : 30,
+	"stars" : 5,
+	"shards" : "34/85",
+    "image" : "PrincessLeia.jpg",
+    "fraction" : "rebel"
+  },
+  {
+    "name" : "han solo",
+    "power" : 1966,
+	"level" : 47,
+	"stars" : 5,
+	"shards" : "22/85",
+    "image" : "HanSolo.jpg",
+    "fraction" : "rebel"
+  },
+  {
+    "name" : "kylo ren unmasked",
+    "power" : 4949,
+	"level" : 51,
+	"stars" : 3,
+	"shards" : "10/30",
+    "image" : "KyloRenUnmasked.jpg",
+    "fraction" : "first order"
+  },
+  {
+    "name" : "r2-d2",
+    "power" : 3425,
+	"level" : 78,
+	"stars" : 2,
+	"shards" : "1/25",
+    "image" : "R2d2.jpg",
+    "fraction" : "droid"
+  },
+  {
+    "name" : "bb-8",
+    "power" : 3812,
+	"level" : 85,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "Bb8.jpg",
+    "fraction" : "droid"
+  },
+  {
+    "name" : "ig-88",
+    "power" : 4271,
+	"level" : 85,
+	"stars" : 6,
+	"shards" : "40/100",
+    "image" : "Ig-88.jpg",
+    "fraction" : "droid"
+  },
+ {
+    "name" : "ig-100",
+    "power" : 1689,
+	"level" : 81,
+	"stars" : 3,
+	"shards" : "2/25",
+    "image" : "Ig-100.jpg",
+    "fraction" : "droid"
+  },
+ {
+    "name" : "kylo ren",
+    "power" : 2623,
+	"level" : 77,
+	"stars" : 4,
+	"shards" : "64/65",
+    "image" : "KyloRen.jpg",
+    "fraction" : "first order"
+  },
+ {
+    "name" : "captain phasma",
+    "power" : 3144,
+	"level" : 84,
+	"stars" : 3,
+	"shards" : "23/30",
+    "image" : "CaptainPhasma.jpg",
+    "fraction" : "first order"
+  },
+ {
+    "name" : "general veers",
+    "power" : 6144,
+	"level" : 85,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "GeneralVeers.jpg",
+    "fraction" : "empire"
+  },
+ {
+    "name" : "death trooper",
+    "power" : 4899,
+	"level" : 85,
+	"stars" : 4,
+	"shards" : "12/65",
+    "image" : "DeathTrooper.jpg",
+    "fraction" : "empire"
+  },
+  {
+    "name" : "grand moff tarkin",
+    "power" : 7088,
+	"level" : 85,
+	"stars" : 4,
+	"shards" : "29/65",
+    "image" : "GrandMoffTarkin.jpg",
+    "fraction" : "empire"
+  },
+   {
+    "name" : "grand master yoda",
+    "power" : 9221,
+	"level" : 85,
+	"stars" : 5,
+	"shards" : "10/85",
+    "image" : "GrandMasterYoda.jpg",
+    "fraction" : "jedi"
+  },
+   {
+    "name" : "mace windu",
+    "power" : 5781,
+	"level" : 73,
+	"stars" : 5,
+	"shards" : "19/85",
+    "image" : "MaceWindu.jpg",
+    "fraction" : "jedi"
+  },
+   {
+    "name" : "obi-wan kenobi",
+    "power" : 9877,
+	"level" : 85,
+	"stars" : 2,
+	"shards" : "4/15",
+    "image" : "Obi-WanKenobi.jpg",
+    "fraction" : "jedi"
+  },
+   {
+    "name" : "qui-gon jinn",
+    "power" : 6822,
+	"level" : 34,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "Qui-GonJinn.jpg",
+    "fraction" : "jedi"
+  },
+   {
+    "name" : "jedi knight anakin",
+    "power" : 5122,
+	"level" : 49,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "JediKnighAnakin.jpg",
+    "fraction" : "jedi"
+  },
+  {
+    "name" : "rey scavanger",
+    "power" : 8190,
+	"level" : 85,
+	"stars" : 4,
+	"shards" : "20/65",
+    "image" : "ReyScavanger.jpg",
+    "fraction" : "resistance"
+  },
+  {
+    "name" : "rey jedi training",
+    "power" : 9991,
+	"level" : 80,
+	"stars" : 1,
+	"shards" : "8/15",
+    "image" : "ReyJediTraining.jpg",
+    "fraction" : "resistance"
+  },
+  {
+    "name" : "finn",
+    "power" : 7990,
+	"level" : 81,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "Finn.jpg",
+    "fraction" : "resistance"
+  },
+  {
+    "name" : "poe dameron",
+    "power" : 8011,
+	"level" : 85,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "PoeDameron.jpg",
+    "fraction" : "resistance"
+  },
+  {
+    "name" : "resistance trooper",
+    "power" : 7441,
+	"level" : 32,
+	"stars" : 1,
+	"shards" : "1/15",
+    "image" : "ResistanceTrooper.jpg",
+    "fraction" : "resistance"
+  },
+  {
+    "name" : "amilyn holdo",
+    "power" : 8233,
+	"level" : 85,
+	"stars" : 2,
+	"shards" : "14/30",
+    "image" : "AmilynHoldo.jpg",
+    "fraction" : "resistance"
+  },
+  {
+    "name" : "rose tico",
+    "power" : 4322,
+	"level" : 79,
+	"stars" : 5,
+	"shards" : "78/85",
+    "image" : "RoseTico.jpg",
+    "fraction" : "resistance"
+  },
+  {
+    "name" : "baze malbus",
+    "power" : 6771,
+	"level" : 85,
+	"stars" : 6,
+	"shards" : "90/100",
+    "image" : "BazeMalbus.jpg",
+    "fraction" : "rogue one"
+  },
+  {
+    "name" : "Chirrut Imwe",
+    "power" : 6211,
+	"level" : 44,
+	"stars" : 6,
+	"shards" : "92/100",
+    "image" : "ChirrutImwe.jpg",
+    "fraction" : "rogue one"
+  },
+  {
+    "name" : "k-2s0",
+    "power" : 4221,
+	"level" : 85,
+	"stars" : 2,
+	"shards" : "2/25",
+    "image" : "K-2S0.jpg",
+    "fraction" : "rogue one"
+  },
+  {
+    "name" : "jyn erso",
+    "power" : 9511,
+	"level" : 85,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "JynErso.jpg",
+    "fraction" : "rogue one"
+  },
+  {
+    "name" : "bodhi rook",
+    "power" : 6002,
+	"level" : 82,
+	"stars" : 3,
+	"shards" : "8/30",
+    "image" : "BodhiRook.jpg",
+    "fraction" : "rogue one"
+  },
+   {
+    "name" : "darth sion",
+    "power" : 8223,
+	"level" : 85,
+	"stars" : 4,
+	"shards" : "19/65",
+    "image" : "DarthSion.jpg",
+    "fraction" : "sith"
+  },
+   {
+    "name" : "darth traya",
+    "power" : 9887,
+	"level" : 85,
+	"stars" : 7,
+	"shards" : "max",
+    "image" : "DarthTraya.jpg",
+    "fraction" : "sith"
+  },
+   {
+    "name" : "savage opress",
+    "power" : 6088,
+	"level" : 45,
+	"stars" : 5,
+	"shards" : "7/85",
+    "image" : "SavageOpress.jpg",
+    "fraction" : "sith"
+  }
+]
